@@ -8,29 +8,33 @@ sudo apt install mysql-workbench -y
 ```
 # Go to the show application in your system 
 
-![This is an image](1.png)
+
+<img src="1.png" alt="drawing" width="500"/>
 
 # Type to mysql workbench
  
-![This is an image](2.png)
+
+<img src="2.png" alt="drawing" width="500"/>
 
 
 # Open mysql workbench 
 
-![This is an image](3.png)
+
+<img src="3.png" alt="drawing" width="500"/>
 
 ## And click to add conection
 
-![This is an image](4.png)
+<img src="4.png" alt="drawing" width="500"/>
 
 ## Type yor name project 
 
-![This is an image](5.png)
+
+<img src="5.png" alt="drawing" width="500"/>
+
+
+<img src="6.png" alt="drawing" width="500"/>
 
 ## Then click to connection method and click to standerd tcp/ip over ssh
-
-![This is an image](6.png)
-
 
 ```
 now add your host name =  your ip 
@@ -41,8 +45,7 @@ then click to ssh key file
 ```
 ## Go to your .ssh file and add your key 
 
-![This is an image](7.png)
-
+<img src="7.png" alt="drawing" width="500"/>
 
 ```
 home > presh key ctrl+h >find .ssh > select key id_rsa
@@ -57,5 +60,5 @@ home > presh key ctrl+h >find .ssh > select key id_rsa
 password :  store in keychain pest your db password
 ```
 
-![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/8.png)
+
 ## Now click to test conection
