@@ -8,28 +8,28 @@ sudo apt install mysql-workbench -y
 ```
 # Go to the show application in your system 
 
-![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/1.png)
+![This is an image](1.png)
 
 # Type to mysql workbench
  
-![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/2.png)
+![This is an image](2.png)
 
 
 # Open mysql workbench 
 
-![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/3.png)
+![This is an image](3.png)
 
 ## And click to add conection
 
-![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/4.png)
+![This is an image](4.png)
 
 ## Type yor name project 
 
-![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/5.png)
+![This is an image](5.png)
 
 ## Then click to connection method and click to standerd tcp/ip over ssh
 
-![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/6.png)
+![This is an image](6.png)
 
 
 ```
@@ -41,7 +41,7 @@ then click to ssh key file
 ```
 ## Go to your .ssh file and add your key 
 
-![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/7.png)
+![This is an image](7.png)
 
 
 ```
