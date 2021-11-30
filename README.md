@@ -1,5 +1,5 @@
-## Configur to mysql workbench host server
-# First of all download to MysqlWorkbench
+##  Configure to mysql workbench host server
+First of all download to MysqlWorkbench
 ```
 sudo apt update
 ```
@@ -43,6 +43,7 @@ ssh user = name your machine name
 
 then click to ssh key file 
 ```
+
 ## Go to your .ssh file and add your key 
 
 <img src="7.png" alt="drawing" width="500"/>
@@ -51,14 +52,14 @@ then click to ssh key file
 home > presh key ctrl+h >find .ssh > select key id_rsa
 ```
 
+Now add host name = your host
 
-## Now add host name = your host
-## Add user name = your db user
+Add user name = your db user
 
-## Then click to 
+# Then click to 
 ```
 password :  store in keychain pest your db password
 ```
 
 
-## Now click to test conection
+# Now click to test conection
