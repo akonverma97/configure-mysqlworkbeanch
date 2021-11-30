@@ -1,34 +1,33 @@
-## configure-mysqlworkbeanch
 ## Configur to mysql workbench host server
-## first of all download to mysqlwoekbench
+# First of all download to MysqlWorkbench
 ```
 sudo apt update
 ```
 ```
 sudo apt install mysql-workbench -y 
 ```
-## go to the show application in your system 
+# Go to the show application in your system 
 
 ![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/1.png)
 
-## type to mysql workbench
+# Type to mysql workbench
  
 ![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/2.png)
 
 
-## open mysql workbench 
+# Open mysql workbench 
 
 ![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/3.png)
 
-## and click to add conection
+## And click to add conection
 
 ![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/4.png)
 
-## type yor name project 
+## Type yor name project 
 
 ![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/5.png)
 
-## then click to connection method and click to standerd tcp/ip over ssh
+## Then click to connection method and click to standerd tcp/ip over ssh
 
 ![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/6.png)
 
@@ -40,7 +39,7 @@ ssh user = name your machine name
 
 then click to ssh key file 
 ```
-## go to your .ssh file and add your key 
+## Go to your .ssh file and add your key 
 
 ![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/7.png)
 
@@ -51,12 +50,12 @@ home > presh key ctrl+h >find .ssh > select key id_rsa
 
 
 ## Now add host name = your host
-## add user name = your db user
+## Add user name = your db user
 
-## then click to 
+## Then click to 
 ```
 password :  store in keychain pest your db password
 ```
 
 ![This is an image](https://raw.githubusercontent.com/akonverma97/configure-mysqlworkbeanch/main/8.png)
-## now click to test conection
+## Now click to test conection
